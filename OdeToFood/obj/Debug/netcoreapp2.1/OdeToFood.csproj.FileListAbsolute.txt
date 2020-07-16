@@ -39,3 +39,4 @@ C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeTo
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.genruntimeconfig.cache
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
