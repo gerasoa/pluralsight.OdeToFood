@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <LangVersion>8.0</LangVersion>
+    <Nullable>enable</Nullable>
+    <NullableContextOptions>enable</NullableContextOptions>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="OdeToFood.Core\**" />
+    <Compile Remove="OdeToFood.Data\**" />
+    <Content Remove="OdeToFood.Core\**" />
+    <Content Remove="OdeToFood.Data\**" />
+    <EmbeddedResource Remove="OdeToFood.Core\**" />
+    <EmbeddedResource Remove="OdeToFood.Data\**" />
+    <None Remove="OdeToFood.Core\**" />
+    <None Remove="OdeToFood.Data\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OdeToFood.Data\OdeToFood.Data.csproj" />
+  </ItemGroup>
+
+</Project>

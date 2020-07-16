@@ -1,0 +1,17 @@
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.deps.json
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csprojAssemblyReference.cache
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.AssemblyInfo.cs
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.dll
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.1\OdeToFood.Core.pdb
