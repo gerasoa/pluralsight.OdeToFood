@@ -26,7 +26,10 @@ C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Edit.cshtml.g.cs
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\List.cshtml.g.cs
+C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.cshtml.g.cs
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -39,4 +42,3 @@ C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeTo
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
 C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.genruntimeconfig.cache
-C:\git\Pluralsight\pluralsight.OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Detail.cshtml.g.cs
